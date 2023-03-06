@@ -1,0 +1,7 @@
+Analisador Léxico
+    Literais -> ['+', '-', '[', ']', ',']
+    Tokens -> ['NUM']
+
+
+Analisador Sintatico
+    Código comentado
